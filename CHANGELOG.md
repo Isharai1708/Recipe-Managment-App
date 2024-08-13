@@ -1,3 +1,10 @@
+# 1.0.0 (2024-08-13)
+
+
+### Features
+
+* add all files ([a31b42a](https://github.com/Isharai1708/Recipe-Managment-App/commit/a31b42acc608a1a117d2939fb33f75e51457ec4d))
+
 ## [1.1.1](https://github.com/devopstechpro/Recipe-Management/compare/v1.1.0...v1.1.1) (2024-08-11)
 
 
