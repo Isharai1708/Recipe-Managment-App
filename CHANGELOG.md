@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Isharai1708/Recipe-Managment-App/compare/v1.0.0...v1.0.1) (2024-08-15)
+
+
+### Bug Fixes
+
+* update guidelines ([7e662a0](https://github.com/Isharai1708/Recipe-Managment-App/commit/7e662a0fed18cb2bd0467fdd6daefa2ab338bb01))
+
 # 1.0.0 (2024-08-13)
 
 
