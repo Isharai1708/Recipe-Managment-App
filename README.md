@@ -57,3 +57,5 @@ Deploy code using terraform localy:
 4. Plan the code: `terraform plan`
 5. Apply the code: `terraform apply`
 6. Destroy the code: `terraform destroy` - Be-careful while doing this on production systems.
+
+For reference
