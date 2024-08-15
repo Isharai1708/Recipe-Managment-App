@@ -47,7 +47,7 @@ Deploy code using terraform localy:
 
 *Pre-req:*
 1. Install `terraform` on local system
-2. Create backend and update `backend.tf` (only required for first time - I already did it)
+2. Create backend and update `backend.tf` 
 
 *Run terraform from directory `infra`:*
 
